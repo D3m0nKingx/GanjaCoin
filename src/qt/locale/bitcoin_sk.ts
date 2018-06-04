@@ -2722,8 +2722,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

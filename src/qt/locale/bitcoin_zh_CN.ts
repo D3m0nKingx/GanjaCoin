@@ -2719,8 +2719,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>指定pid文件(默认: Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>指定pid文件(默认: ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

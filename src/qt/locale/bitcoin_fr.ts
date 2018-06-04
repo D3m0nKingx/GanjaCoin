@@ -2718,8 +2718,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut: Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut: ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

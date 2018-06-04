@@ -2718,8 +2718,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Spécifier le fichier pid (defaut: Ignitiond.pid)
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Spécifier le fichier pid (defaut: ganjacoind.pid)
 </translation>
     </message>
     <message>

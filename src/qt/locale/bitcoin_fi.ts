@@ -2723,7 +2723,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
         <translation>Määritä prosessitiedosto (oletus: Ganjaproject.pid)</translation>
     </message>
     <message>

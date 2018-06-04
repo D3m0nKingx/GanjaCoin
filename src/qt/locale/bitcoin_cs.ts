@@ -2718,8 +2718,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Urči pid soubor (výchozí: Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Urči pid soubor (výchozí: ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

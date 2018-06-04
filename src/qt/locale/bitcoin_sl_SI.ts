@@ -2716,7 +2716,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
         <translation>Določi pid datoteko (privzeto: Ganjaproject.pid)</translation>
     </message>
     <message>

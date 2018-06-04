@@ -2723,7 +2723,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
         <translation>pid dosyasını belirt (varsayılan: Ganjaproject.pid)</translation>
     </message>
     <message>

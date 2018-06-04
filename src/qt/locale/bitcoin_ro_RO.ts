@@ -2718,7 +2718,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
         <translation>Speficica fisier pid(implicit: Ganjaproject.pid)</translation>
     </message>
     <message>

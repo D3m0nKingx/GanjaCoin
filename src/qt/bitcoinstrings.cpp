@@ -30,7 +30,7 @@ QT_TRANSLATE_NOOP("bitcoin-core", ""
 QT_TRANSLATE_NOOP("bitcoin-core", "Options:"),
 QT_TRANSLATE_NOOP("bitcoin-core", "This help message"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Specify configuration file (default: Ganjaproject.conf)"),
-QT_TRANSLATE_NOOP("bitcoin-core", "Specify pid file (default: Ignitiond.pid)"),
+QT_TRANSLATE_NOOP("bitcoin-core", "Specify pid file (default: ganjacoind.pid)"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Specify data directory"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Specify wallet file (within data directory)"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Set database cache size in megabytes (default: 25)"),

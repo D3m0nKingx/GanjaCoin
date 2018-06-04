@@ -2718,8 +2718,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Ange pid filen (standard Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Ange pid filen (standard ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

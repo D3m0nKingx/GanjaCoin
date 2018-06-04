@@ -2714,8 +2714,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

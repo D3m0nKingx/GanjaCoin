@@ -2721,8 +2721,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

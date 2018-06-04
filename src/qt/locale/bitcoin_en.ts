@@ -2738,8 +2738,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Specify pid file (default: Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Specify pid file (default: ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

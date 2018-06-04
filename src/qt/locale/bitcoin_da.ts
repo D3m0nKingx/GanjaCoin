@@ -2718,8 +2718,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
-        <translation>Angiv pid fil (standard: Ignitiond.pid)</translation>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
+        <translation>Angiv pid fil (standard: ganjacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

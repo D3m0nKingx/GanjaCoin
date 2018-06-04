@@ -2718,7 +2718,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ignitiond.pid)</source>
+        <source>Specify pid file (default: ganjacoind.pid)</source>
         <translation>Selecteer pid bestand (standaard: Ganjaproject.conf)</translation>
     </message>
     <message>
